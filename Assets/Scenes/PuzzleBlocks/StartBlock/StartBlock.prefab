@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3845898087750894208}
   - component: {fileID: 6715904738974080438}
   - component: {fileID: 834893409794537623}
+  - component: {fileID: 3443708254350636285}
   - component: {fileID: 1465782695522687322}
   m_Layer: 7
   m_Name: StartBlock
@@ -195,6 +196,19 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.039
   m_Center: {x: 0.00000002980233, y: 0.000000029802322, z: 0}
+--- !u!65 &3443708254350636285
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3341569351895524181}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 0.5, y: 0.5, z: 0.03}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &1465782695522687322
 MonoBehaviour:
   m_ObjectHideFlags: 0

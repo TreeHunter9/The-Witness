@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -119,10 +119,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 82
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 26
+  controlID: 16
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 27
+  controlID: 17
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 423
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -397,23 +397,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1a480000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 06d5faff84d5faffa2d5faff02dcfaff80dcfaffc0ddfaffd4f5faff50f6faff54f6faffb6fbfaff34fcfaff74fdfaff1411fbff8013fbfffe13fbff1c14fbff6e1bfbffee1bfbff5026fbffd026fbfffe38fbff7c39fbff8c4efbff0a4ffbff3050fbfffeb1ffff7ab2ffffa0b3ffff52fbffff625700007c570000a6570000b057000014580000
+      m_ExpandedIDs: 4685fdffc285fdffe686fdffb095fdff60b6fdffdcb6fdff02b8fdff7ccbfdffb6dafdff3aebfdffe0fafdff780ffeff6023feffba32feff0857feff3684feffdca5feff3eb4feffc8c4feff08d5feffa2e3feff44f3feffba03ffff4015ffff6227ffff9c36ffffb247fffff258fffffc6afffffe79ffff4e8bffffc49fffff06afffff9cc2fffff8d8ffff3cfbffff52fbffff324700004c4700005e470000764700002e7a0000827a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: StartBlock
-        m_OriginalName: StartBlock
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -150798
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.41425622, y: 0.81807, z: 0.14199963}
+    m_Target: {x: -2.5252612, y: 0.49984336, z: -0.09591606}
     speed: 2
-    m_Value: {x: -0.41425622, y: 0.81807, z: 0.14199963}
+    m_Value: {x: -2.5252612, y: 0.49984336, z: -0.09591606}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,13 +508,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.028408287, y: -0.756408, z: 0.032924574, w: 0.6526549}
+    m_Target: {x: 0.04889769, y: -0.7033145, z: 0.048606742, w: 0.7075478}
     speed: 2
-    m_Value: {x: 0.028408254, y: -0.7564071, z: 0.032924533, w: 0.6526541}
+    m_Value: {x: 0.048969846, y: -0.7022423, z: 0.04853265, w: 0.7085918}
   m_Size:
-    m_Target: 1.199837
+    m_Target: 1.7998369
     speed: 2
-    m_Value: 0.89983696
+    m_Value: 1.7998369
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -577,22 +577,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/PuzzleBlocks/MovableBlockCursor
+    - Assets/Scenes/PuzzleBlocks/PathBlock
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/PuzzleBlocks/MovableBlockCursor
+  - Assets/Scenes/PuzzleBlocks/PathBlock
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: X:\Programs\PoG(PathOfGame)\PoG
+  m_LastProjectPath: X:\PoG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 138}
-    m_SelectedIDs: 9e490000
-    m_LastClickedID: 18846
-    m_ExpandedIDs: 000000004c4900004e4900005049000052490000544900005649000000ca9a3b
+    m_SelectedIDs: 92490000
+    m_LastClickedID: 18834
+    m_ExpandedIDs: 0000000050490000524900005449000056490000584900005a49000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,7 +620,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c4900004e49000050490000524900005449000056490000
+    m_ExpandedIDs: 0000000050490000524900005449000056490000584900005a490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -733,7 +733,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 360
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0

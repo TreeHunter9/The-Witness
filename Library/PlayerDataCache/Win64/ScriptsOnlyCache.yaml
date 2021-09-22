@@ -400,12 +400,6 @@ ScriptsOnlyBuild:
     className: WhiteBalance
   - hash:
       serializedVersion: 2
-      Hash: 3aa60491407a5b77cec40bcd59b64f8f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DrawTest
-  - hash:
-      serializedVersion: 2
       Hash: 8d35f16c5022311c6f4d9432be73bfcf
     assemblyName: Unity.RenderPipelines.Core.Runtime.dll
     namespaceName: UnityEngine.Rendering.UI
