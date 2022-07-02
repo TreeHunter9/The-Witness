@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyGame/Scenes/Scenes/FirstLevels.unity
-    guid: 4c9d2e2cd4130474ca46e4eebf364203
+    path: Assets/Scenes/MIVLGU/MIVLGU.unity
+    guid: c7b9474e6724c8e489fc6ff5d8e1ad75
   m_configObjects: {}

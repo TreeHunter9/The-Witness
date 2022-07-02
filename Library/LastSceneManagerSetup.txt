@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MyGame/Scenes/Scenes/FirstLevels.unity
+- path: Assets/Scenes/MIVLGU/MIVLGU.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
