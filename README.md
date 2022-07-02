@@ -1,6 +1,6 @@
 # The Witness (Сourse work - 03.06.2021)
 
-This is analog of "The Witness" without open-world, but in the setting of my institute.
+This is analog of ["The Witness"](https://store.steampowered.com/app/210970/The_Witness/) without open-world, but in the setting of my institute.
 
 <img src="https://github.com/TreeHunter9/The-Witness/blob/AlphaTesting/README%20Data/Gif/1Lvl.gif" width="49.8%" img align="left" />
 <img src="https://github.com/TreeHunter9/The-Witness/blob/AlphaTesting/README%20Data/Gif/2Lvl.gif" width="49.8%" img align="right" />
